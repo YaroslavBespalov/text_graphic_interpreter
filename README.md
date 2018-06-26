@@ -3,7 +3,7 @@ This project is an interpreter of text files describing commands over graphic fi
 Build instructions:
 ```
 # clone repo and download googletests
-git clone https://github.com/YaroslavBespalov/text_graphic_interpreter
+git clone https://github.com/YaroslavBespalov/text_graphic_interpreter.git
 cd text_graphic_interpreter
 git submodule update --init --recursive
 
