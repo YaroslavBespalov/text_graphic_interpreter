@@ -1,0 +1,6 @@
+create rectangle 1 2 2.0 3.0 5.0 10.0
+create circle 2 3 15 25 6
+create triangle 3 0 10.0 10.0 6.0 8.0
+create square 4 0 15.0 15.0 7.0
+bring to back 4
+draw outputfile 5.0 5.0 20.0 40.0 60 60	

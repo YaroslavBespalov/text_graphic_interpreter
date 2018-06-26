@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yaroslav/github/BespalovHW2Task1/BespalovHW2Task1/src/AbstractFigure.cpp
+AbstractFigure.h
+/Users/yaroslav/github/BespalovHW2Task1/BespalovHW2Task1/src/AbstractFigure.h
+
+/Users/yaroslav/github/BespalovHW2Task1/BespalovHW2Task1/src/AbstractFigure.h
+utility
+-
+vector
+-
+

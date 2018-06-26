@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yaroslav/github/BespalovHW2Task1/BespalovHW2Task1/src/AbstractFigure.h
+utility
+-
+vector
+-
+
+/Users/yaroslav/github/BespalovHW2Task1/BespalovHW2Task1/src/Container.h
+utility
+-
+deque
+-
+AbstractFigure.h
+/Users/yaroslav/github/BespalovHW2Task1/BespalovHW2Task1/src/AbstractFigure.h
+
+/Users/yaroslav/github/BespalovHW2Task1/BespalovHW2Task1/src/Scene.cpp
+Scene.h
+/Users/yaroslav/github/BespalovHW2Task1/BespalovHW2Task1/src/Scene.h
+iostream
+-
+
+/Users/yaroslav/github/BespalovHW2Task1/BespalovHW2Task1/src/Scene.h
+fstream
+-
+Container.h
+/Users/yaroslav/github/BespalovHW2Task1/BespalovHW2Task1/src/Container.h
+
