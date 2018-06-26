@@ -3,8 +3,8 @@ This project is an interpreter of text files describing commands over graphic fi
 Build instructions:
 ```
 # clone repo and download googletests
-git clone https://gitlab.com/Yaroslav_Bespalov/BespalovHW2Task1.git
-cd BespalovHW2Task1
+git clone https://github.com/YaroslavBespalov/text_graphic_interpreter
+cd text_graphic_interpreter
 git submodule update --init --recursive
 
 # make build directory
